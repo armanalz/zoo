@@ -1,0 +1,240 @@
+.home {
+
+    max-width: 148rem;
+    padding: 5rem;
+    margin: 0 auto;
+    background: $color-white;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    &_title {
+
+        font-family: $title-font;
+        font-size: 3rem;
+        color: $color-black;
+        text-align: center;
+        margin: .8rem auto;
+
+    }
+
+    &_description {
+
+        font-family: $content-font;
+        font-size: 1.2rem;
+        color: $color-gray-light;
+        text-align: center;
+    }
+
+    &_container {
+
+        display: grid;
+        grid-template-rows: 28rem 28rem;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 1rem;
+        margin: 5rem auto;
+
+        &-item {
+
+            border-radius: 5rem;
+            cursor: pointer;
+
+            &.lion {
+
+                &:hover {
+
+                    background-color: $color-yellow;
+
+                }
+
+            }
+
+            &.elephant {
+
+                &:hover {
+
+                    background-color: $color-gray;
+                    
+                }
+                
+            }
+
+            &.owl {
+
+                &:hover {
+
+                    background-color: $color-green;
+                    
+                }
+                
+            }
+
+            &.tiger {
+
+                &:hover {
+
+                    background-color: $color-orange;
+                    
+                }
+                
+            }
+
+            &.bear {
+
+                &:hover {
+
+                    background-color: $color-brown;
+                    
+                }
+                
+            }
+
+            &.rabbit {
+
+                &:hover {
+
+                    background-color: $color-blue;
+                    
+                }
+                
+            }
+
+            &.hippo {
+
+                &:hover {
+
+                    background-color: $color-purple;
+                    
+                }
+                
+            }
+
+            &.giraffe {
+
+                &:hover {
+                    
+                   background-color: $color-yellow-light;
+                    
+                }
+                
+            }
+        }
+
+        &-img {
+
+            height: 28rem;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: auto 22rem;
+            z-index: 9999;
+
+            &:hover {
+
+                animation-name: jump;
+                animation-duration: .4s;
+            }
+
+            &.lion {
+
+                background-image: url(../img/lion.png);
+                background-size: 22rem auto;
+
+            }
+            &.elephant {
+
+                background-image: url(../img/elephant.png);
+                background-size: 22rem auto; 
+                
+            }
+
+            &.owl {
+
+                background-image: url(../img/owl.png);  
+                background-size:  auto 18rem;    
+                
+            }
+
+            &.tiger {
+
+                background-image: url(../img/tiger.png);           
+                
+            }
+
+            &.bear {
+
+                background-image: url(../img/bear.png);     
+                
+            }
+
+            &.rabbit {
+
+                background-image: url(../img/rabbit.png);  
+                
+            }
+
+            &.hippo {
+
+                background-image: url(../img/hippo.png);           
+                
+            }
+
+            &.giraffe {
+
+                background-image: url(../img/giraffe.png);
+                
+            }
+           
+
+        }
+    }
+
+}
+
+// .fade-appear, .fade-enter {
+
+//     opacity: 0;
+//     z-index: 1;
+// }
+
+// .fade-appear-active, .fade-enter.fade-enter-active {
+
+//     opacity: 1;
+//     transition: opacity 300ms linear 150ms;
+// }
+
+// .fade-exit {
+
+//     opacity: 1;
+// }
+
+// .fade-exit.fade-exit-active {
+
+//     opacity: 0;
+//     transition: opacity 150ms linear ;
+// }
+
+.fade-appear, .fade-enter {
+    opacity: 0;
+    z-index: 1;
+    transform: scaleY(0);
+}
+
+.fade-appear-active, .fade-enter.fade-enter-active {
+
+    opacity: 1;
+    transform: scaleY(1);
+    transition: all 600ms;
+}
+
+.fade-exit {
+
+    opacity: 1;
+    
+}
+
+.fade-exit.fade-exit-active {
+
+    opacity: 0;
+    transition: all 600ms ;
+    
+}
