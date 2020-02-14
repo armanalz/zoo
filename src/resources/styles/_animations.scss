@@ -8,5 +8,24 @@
 
 }
 
+@keyframes span {
+
+    0%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 20rem; left: 5rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
 
 

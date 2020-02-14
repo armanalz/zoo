@@ -3,6 +3,16 @@ import { Link } from 'react-router-dom';
 
 class Home extends Component {
 
+    state = {
+
+        clicked: false
+    }
+
+    clickHandler = () => {
+
+        this.setState({ clicked : true})
+    }
+
     render() {
         return (
             <main className="home">
@@ -16,7 +26,7 @@ class Home extends Component {
 
                 <div className="home_container">
 
-                    <Link to="/specifications" exact>
+                    <Link to={{pathname:`/specifications`, id:"lion"}} exact onClick={ () => this.clickHandler() }>
                         <div className="home_container-item lion">
                            <div className="home_container-img lion"></div>
                            <div className="home_container-description lion"></div>
