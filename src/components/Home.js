@@ -32,27 +32,41 @@ class Home extends Component {
                            <div className="home_container-description lion"></div>
                         </div>
                     </Link>
-                    <div className="home_container-item elephant">
-                       <div className="home_container-img elephant"></div>
-                    </div>
-                    <div className="home_container-item owl">
-                       <div className="home_container-img owl"></div>
-                    </div>
-                    <div className="home_container-item tiger">
-                       <div className="home_container-img tiger"></div>
-                    </div>
-                    <div className="home_container-item bear">
-                       <div className="home_container-img bear"></div>
-                    </div>
-                    <div className="home_container-item rabbit">
-                       <div className="home_container-img rabbit"></div>
-                    </div>
-                    <div className="home_container-item hippo">
-                       <div className="home_container-img hippo"></div>
-                    </div>
-                    <div className="home_container-item giraffe">
-                       <div className="home_container-img giraffe"></div>
-                    </div>
+                    <Link to={{pathname:`/specifications`, id:"elephant"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item elephant">
+                            <div className="home_container-img elephant"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"owl"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item owl">
+                            <div className="home_container-img owl"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"tiger"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item tiger">
+                            <div className="home_container-img tiger"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"bear"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item bear">
+                            <div className="home_container-img bear"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"rabbit"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item rabbit">
+                            <div className="home_container-img rabbit"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"hippo"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item hippo">
+                            <div className="home_container-img hippo"></div>
+                        </div>
+                    </Link>
+                    <Link to={{pathname:`/specifications`, id:"giraffe"}} exact onClick={ () => this.clickHandler() }>
+                        <div className="home_container-item giraffe">
+                            <div className="home_container-img giraffe"></div>
+                        </div>
+                    </Link>
 
                 </div>  {/*  main_container */}
             </main>

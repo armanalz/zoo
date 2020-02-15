@@ -14,7 +14,7 @@ class Routes extends Component {
          <Route render={({location}) => (
             <TransitionGroup>
 
-               <CSSTransition classNames="my-node" timeout={1400} key={location.pathname} >
+               <CSSTransition classNames="fade" timeout={1400} key={location.pathname} >
             
                   <Switch location={location}>
                         <Route  exact component={Home} path="/"/>

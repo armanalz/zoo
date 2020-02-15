@@ -8,7 +8,7 @@
 
 }
 
-@keyframes span {
+@keyframes lion-span {
 
     0%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
     25%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
@@ -18,12 +18,145 @@
 
 }
 
-@keyframes spand {
+@keyframes lion-spand {
     
     0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
     10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
     75%   {  top: 20rem; left: 5rem;  border-radius: 5rem; width: 33rem; height: 28rem}
     100%   {  top: 20rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes elephant-span {
+
+    0%   {  top: 20rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 20rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes elephant-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 20rem; left: 39rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 20rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes owl-span {
+
+    0%   {  top: 20rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 20rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes owl-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 20rem; left: 73rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 20rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes tiger-span {
+
+    0%   {  top: 20rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 20rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes tiger-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 20rem; left: 107rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 20rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes bear-span {
+
+    0%   {  top: 49rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 49rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes bear-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 49rem; left: 5rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 49rem; left: 5rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes rabbit-span {
+
+    0%   {  top: 49rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 49rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes rabbit-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 49rem; left: 39rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 49rem; left: 39rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes hippo-span {
+
+    0%   {  top: 49rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 49rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes hippo-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 49rem; left: 73rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 49rem; left: 73rem; border-radius: 5rem; width: 33rem; height: 28rem}
+
+}
+
+@keyframes giraffe-span {
+
+    0%   {  top: 49rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
+    25%   {  top: 49rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
+  
+    80% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    100% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+
+}
+
+@keyframes giraffe-spand {
+    
+    0% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    10% { top: 0; left: 0; bottom: 0; height: 100vh; border-radius: 0; width: 30%}
+    75%   {  top: 49rem; left: 107rem;  border-radius: 5rem; width: 33rem; height: 28rem}
+    100%   {  top: 49rem; left: 107rem; border-radius: 5rem; width: 33rem; height: 28rem}
 
 }
 

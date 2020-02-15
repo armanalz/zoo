@@ -18,7 +18,7 @@ class Specifications extends Component {
 
         this.setState({
 
-            animation : "span"
+            animation : `${this.props.location.id}-span`
 
         })
 
@@ -34,18 +34,31 @@ class Specifications extends Component {
 
         this.setState({
 
-            animation : "spand"
+            animation : `${this.props.location.id}-spand`
 
         })
     }
 
     render() {
+
+        let imgClass,backgroundImg
+
+        imgClass = this.props.location.id;
+        backgroundImg = require(`../resources/img/${imgClass}.png`)
+
         return (
             <main className="specifications">
-                <div className={`specifications_img ${this.state.transformClass}`}
-                     style={{animationName: this.state.animation}}
+                <div className={`specifications_img ${this.state.transformClass} ${imgClass}`}
+                     style={{ 
+                              animationName: this.state.animation,
+                     }}
                 >
-                    <div className="specifications_img-wrapper lion"></div>
+                    <div className={`specifications_img-wrapper ${imgClass}`}
+                        style={{ 
+                            backgroundImage: `url(${backgroundImg})`
+                        }}
+                    >
+                    </div>
                 </div>
                 <div className="specifications_description">
                     <Link to="/" exact onClick={() => this.onmHandler()}>

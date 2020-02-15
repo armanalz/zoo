@@ -17,16 +17,79 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        background-color: $color-yellow;
         z-index: 999;
 
         &.primary {
 
-            top : 20rem;
-            left : 5rem;
             width : 33rem;
             height : 28rem;
             border-radius : 5rem; 
+
+            &.lion {
+
+                top : 20rem;
+                left : 5rem;
+                background-color: $color-yellow;
+              
+            }
+
+            &.elephant {
+
+                top : 20rem;
+                left : 39rem;
+                background-color: $color-gray;
+             
+            }
+
+            &.owl {
+
+                top : 20rem;
+                left : 73rem;
+                background-color: $color-green;
+             
+            }
+
+            &.tiger {
+
+                top : 20rem;
+                left : 107rem;
+                background-color: $color-orange;
+             
+            }
+
+            &.bear {
+
+                top : 49rem;
+                left : 5rem;
+                background-color: $color-brown;
+             
+            }
+
+            &.rabbit {
+
+                top : 49rem;
+                left : 39rem;
+                background-color: $color-blue;
+             
+            }
+
+            &.hippo {
+
+                top : 49rem;
+                left : 73rem;
+                background-color: $color-purple;
+             
+            }
+
+            &.giraffe {
+
+                top : 49rem;
+                left : 107rem;
+                background-color:  $color-yellow-light;
+             
+            }
+
+            
 
         }
 
@@ -39,6 +102,54 @@
             height : 100vh;
             border-radius : 0;
 
+            &.lion {
+
+                background-color: $color-yellow;
+              
+            }
+
+            &.elephant {
+
+                background-color: $color-gray;
+             
+            }
+
+            &.owl {
+
+                background-color: $color-green;
+             
+            }
+
+            &.tiger {
+
+                background-color: $color-orange;
+             
+            }
+
+            &.bear {
+
+                background-color: $color-brown;
+             
+            }
+
+            &.rabbit {
+
+                background-color: $color-blue;
+             
+            }
+
+            &.hippo {
+
+                background-color: $color-purple;
+             
+            }
+
+            &.giraffe {
+
+                background-color: $color-yellow-light;
+             
+            }
+
         }
     
         &-wrapper {
@@ -46,13 +157,49 @@
             height: 28rem;
             background-repeat: no-repeat;
             background-position: center;
+            background-size: auto 22rem;
             z-index: 9999;
     
             &.lion {
     
-                background-image: url(../img/lion.png);
                 background-size: 22rem auto;
     
+            }
+
+            &.elephant {
+
+                background-size: 22rem auto; 
+                
+            }
+
+            &.owl {
+
+                background-size:  auto 18rem;    
+                
+            }
+
+            &.tiger {          
+                
+            }
+
+            &.bear {
+    
+                
+            }
+
+            &.rabbit {
+
+                
+            }
+
+            &.hippo {
+           
+                
+            }
+
+            &.giraffe {
+
+                
             }
     
         }
