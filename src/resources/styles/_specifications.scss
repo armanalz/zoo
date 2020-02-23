@@ -213,6 +213,55 @@
         right: 0;
         bottom: 0;
         width: 70%;
+        padding: 5rem;
+        transition: opacity .4s;
+
+        &-link {
+
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            text-decoration: none;
+            width: 14rem;
+            
+
+            &--txt {
+
+                color: $color-gray;
+                font-family: $content-font;
+                font-size: 1.3rem;
+                text-transform: capitalize;
+                margin-left: 2rem;
+
+            }
+        }
+
+        &-item {
+
+            font-family: $title-font;
+            color: $color-black;
+            font-size: 1.8rem;
+            text-transform: capitalize;
+            font-weight: 700;
+            margin: 2rem auto .5rem 0;
+
+            &.title {
+
+                margin: 3rem auto 3rem 0;
+                font-size: 4rem;
+                font-weight: 900;
+
+            }
+        }
+
+        &-value {
+
+                color: $color-gray;
+                font-family: $content-font;
+                font-size: 1.3rem;
+                margin: 0 auto 2rem 0;
+
+        }
     }
 }
 

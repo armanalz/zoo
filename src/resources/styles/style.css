@@ -569,6 +569,12 @@ body {
     height: 28rem;
   }
 }
+.arrow-left2 {
+  width: 1.8rem;
+  height: 1.8rem;
+  fill: #66737a;
+}
+
 .home {
   max-width: 148rem;
   padding: 5rem;
@@ -803,6 +809,41 @@ body {
   right: 0;
   bottom: 0;
   width: 70%;
+  padding: 5rem;
+  transition: opacity 0.4s;
+}
+.specifications_description-link {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  text-decoration: none;
+  width: 14rem;
+}
+.specifications_description-link--txt {
+  color: #66737a;
+  font-family: "Public Sans", sans-serif;
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  margin-left: 2rem;
+}
+.specifications_description-item {
+  font-family: "Salsa", cursive;
+  color: #252525;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+  font-weight: 700;
+  margin: 2rem auto 0.5rem 0;
+}
+.specifications_description-item.title {
+  margin: 3rem auto 3rem 0;
+  font-size: 4rem;
+  font-weight: 900;
+}
+.specifications_description-value {
+  color: #66737a;
+  font-family: "Public Sans", sans-serif;
+  font-size: 1.3rem;
+  margin: 0 auto 2rem 0;
 }
 
 /*# sourceMappingURL=style.css.map */
