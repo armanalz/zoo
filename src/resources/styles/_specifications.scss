@@ -2,13 +2,22 @@
 .specifications {
 
     display: flex;
+    flex-direction: row;
     max-width: 148rem;
     padding: 0;
     margin: 0 auto;
     background: $color-white;
-    height: 100vh;
+    height: auto;
     width: 100vw;
     position: relative;
+    align-items: stretch;
+    flex-wrap: wrap;
+
+    @include respond(phone) {
+             
+        flex-direction: column;
+        
+    }
 
     &_img {
 
@@ -18,17 +27,20 @@
         flex-direction: column;
         justify-content: center;
         z-index: 999;
+        flex: 1 0 auto;
+        align-self: stretch;
+        overflow-y: scroll;
 
         &.primary {
 
-            width : 33rem;
+            width : 22.25%;
             height : 28rem;
             border-radius : 5rem; 
 
             &.lion {
 
                 top : 20rem;
-                left : 5rem;
+                left : 4%;
                 background-color: $color-yellow;
               
             }
@@ -36,7 +48,7 @@
             &.elephant {
 
                 top : 20rem;
-                left : 39rem;
+                left : 27.25%;
                 background-color: $color-gray;
              
             }
@@ -44,7 +56,7 @@
             &.owl {
 
                 top : 20rem;
-                left : 73rem;
+                left : 5o.5%;
                 background-color: $color-green;
              
             }
@@ -52,7 +64,7 @@
             &.tiger {
 
                 top : 20rem;
-                left : 107rem;
+                left : 73.75%;
                 background-color: $color-orange;
              
             }
@@ -60,7 +72,7 @@
             &.bear {
 
                 top : 49rem;
-                left : 5rem;
+                left : 4%;
                 background-color: $color-brown;
              
             }
@@ -68,7 +80,7 @@
             &.rabbit {
 
                 top : 49rem;
-                left : 39rem;
+                left : 27.25%;
                 background-color: $color-blue;
              
             }
@@ -76,7 +88,7 @@
             &.hippo {
 
                 top : 49rem;
-                left : 73rem;
+                left : 50.5%;
                 background-color: $color-purple;
              
             }
@@ -84,7 +96,7 @@
             &.giraffe {
 
                 top : 49rem;
-                left : 107rem;
+                left : 73.75%;
                 background-color:  $color-yellow-light;
              
             }
@@ -99,8 +111,23 @@
             bottom : 0;
             left : 0;
             width : 30%;
-            height : 100vh;
+            height : 100%;
             border-radius : 0;
+        
+
+            @include respond(tab-port) {
+             
+                width : 40%;
+                
+            }
+
+            @include respond(phone) {
+             
+                width : 100%;
+                height : 35%;
+                flex-basis: 35%;
+                
+            }
 
             &.lion {
 
@@ -215,6 +242,22 @@
         width: 70%;
         padding: 5rem;
         transition: opacity .4s;
+        flex: 1 0 auto;
+        align-self: stretch;
+
+        @include respond(tab-port) {
+             
+            width: 60%;
+            
+        }
+
+        @include respond(phone) {
+             
+            width : 100%;
+            top: 35%;
+            padding: 3rem;
+            
+        }
 
         &-link {
 

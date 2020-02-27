@@ -1,12 +1,18 @@
 .home {
 
     max-width: 148rem;
-    padding: 5rem;
+    padding: 5rem 4%;
     margin: 0 auto;
     background: $color-white;
     position: absolute;
     left: 0;
     right: 0;
+
+    @include respond(phone) {
+             
+        padding: 5rem 10%;
+        
+    }
 
     &_title {
 
@@ -16,6 +22,12 @@
         text-align: center;
         margin: 0 auto;
         height: 6.5rem;
+
+        @include respond(phone) {
+             
+            font-size: 2.8rem;
+            
+        }
 
     }
 
@@ -34,8 +46,21 @@
         display: grid;
         grid-template-rows: 28rem 28rem;
         grid-template-columns: repeat(4, 1fr);
-        grid-gap: 1rem;
+        grid-column-gap: 1%;
+        grid-row-gap: 1rem;
         margin: 5rem auto;
+
+        @include respond(tab-port) {
+             
+            grid-template-columns: repeat(2, 1fr);
+            
+        }
+
+        @include respond(phone) {
+             
+            grid-template-columns: 1fr;
+            
+        }
     
 
         &-item {
@@ -203,7 +228,7 @@
 .fade-enter-active {
 
      opacity: 1;
-     transition: opacity 200ms;
+     transition: opacity 200ms linear 0;
 }
 
 .fade-exit {

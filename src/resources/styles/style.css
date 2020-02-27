@@ -60,23 +60,23 @@ body {
 @keyframes lion-span {
   0% {
     top: 20rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 20rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -84,7 +84,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -94,7 +94,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -102,45 +102,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 20rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 20rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes elephant-span {
   0% {
     top: 20rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 20rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -148,7 +148,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -158,7 +158,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -166,45 +166,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 20rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 20rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes owl-span {
   0% {
     top: 20rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 20rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -212,7 +212,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -222,7 +222,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -230,45 +230,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 20rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 20rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes tiger-span {
   0% {
     top: 20rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 20rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -276,7 +276,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -286,7 +286,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -294,45 +294,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 20rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 20rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes bear-span {
   0% {
     top: 49rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 49rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -340,7 +340,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -350,7 +350,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -358,45 +358,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 49rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 49rem;
-    left: 5rem;
+    left: 4%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes rabbit-span {
   0% {
     top: 49rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 49rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -404,7 +404,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -414,7 +414,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -422,45 +422,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 49rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 49rem;
-    left: 39rem;
+    left: 27.25%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes hippo-span {
   0% {
     top: 49rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 49rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -468,7 +468,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -478,7 +478,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -486,45 +486,45 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 49rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 49rem;
-    left: 73rem;
+    left: 50.5%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
 }
 @keyframes giraffe-span {
   0% {
     top: 49rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   25% {
     top: 49rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   80% {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -532,7 +532,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -542,7 +542,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
@@ -550,23 +550,1051 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    height: 100vh;
+    height: 100%;
     border-radius: 0;
     width: 30%;
   }
   75% {
     top: 49rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
   }
   100% {
     top: 49rem;
-    left: 107rem;
+    left: 73.75%;
     border-radius: 5rem;
-    width: 33rem;
+    width: 22.25%;
     height: 28rem;
+  }
+}
+@media only screen and (max-width: 62.5em) {
+  @keyframes lion-span {
+    0% {
+      top: 20rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 20rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes lion-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 20rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 20rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes elephant-span {
+    0% {
+      top: 20rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 20rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes elephant-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 20rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 20rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes owl-span {
+    0% {
+      top: 49rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 49rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes owl-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 49rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 49rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes tiger-span {
+    0% {
+      top: 49rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 49rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes tiger-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 49rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 49rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes bear-span {
+    0% {
+      top: 78rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 78rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes bear-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 78rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 78rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes rabbit-span {
+    0% {
+      top: 78rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 78rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes rabbit-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 78rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 78rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes hippo-span {
+    0% {
+      top: 107rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 107rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes hippo-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 107rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 107rem;
+      left: 4%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+  @keyframes giraffe-span {
+    0% {
+      top: 107rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    25% {
+      top: 107rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+  }
+  @keyframes giraffe-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 40%;
+    }
+    75% {
+      top: 107rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+    100% {
+      top: 107rem;
+      left: 50.5%;
+      border-radius: 5rem;
+      width: 45.5%;
+      height: 28rem;
+    }
+  }
+}
+@media only screen and (max-width: 36em) {
+  @keyframes lion-span {
+    0% {
+      top: 20rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 20rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes lion-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 20rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 20rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes elephant-span {
+    0% {
+      top: 49rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 49rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes elephant-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 49rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 49rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes owl-span {
+    0% {
+      top: 78rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 78rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes owl-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 78rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 78rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes tiger-span {
+    0% {
+      top: 107rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 107rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes tiger-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 107rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 107rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes bear-span {
+    0% {
+      top: 136rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 136rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes bear-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 136rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 136rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes rabbit-span {
+    0% {
+      top: 165rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 165rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes rabbit-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 165rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 165rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes hippo-span {
+    0% {
+      top: 194rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 194rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes hippo-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 194rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 194rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+  }
+  @keyframes giraffe-span {
+    0% {
+      top: 223rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    25% {
+      top: 223rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    80% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    100% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+  }
+  @keyframes giraffe-spand {
+    0% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    10% {
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 35%;
+      border-radius: 0;
+      width: 100%;
+    }
+    75% {
+      top: 223rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
+    100% {
+      top: 223rem;
+      left: 10%;
+      border-radius: 5rem;
+      width: 80%;
+      height: 28rem;
+    }
   }
 }
 .arrow-left2 {
@@ -577,12 +1605,17 @@ body {
 
 .home {
   max-width: 148rem;
-  padding: 5rem;
+  padding: 5rem 4%;
   margin: 0 auto;
   background: #FEFEFE;
   position: absolute;
   left: 0;
   right: 0;
+}
+@media only screen and (max-width: 36em) {
+  .home {
+    padding: 5rem 10%;
+  }
 }
 .home_title {
   font-family: "Salsa", cursive;
@@ -591,6 +1624,11 @@ body {
   text-align: center;
   margin: 0 auto;
   height: 6.5rem;
+}
+@media only screen and (max-width: 36em) {
+  .home_title {
+    font-size: 2.8rem;
+  }
 }
 .home_description {
   font-family: "Public Sans", sans-serif;
@@ -603,8 +1641,19 @@ body {
   display: grid;
   grid-template-rows: 28rem 28rem;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 1rem;
+  grid-column-gap: 1%;
+  grid-row-gap: 1rem;
   margin: 5rem auto;
+}
+@media only screen and (max-width: 62.5em) {
+  .home_container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media only screen and (max-width: 36em) {
+  .home_container {
+    grid-template-columns: 1fr;
+  }
 }
 .home_container-item {
   border-radius: 5rem;
@@ -680,7 +1729,7 @@ body {
 
 .fade-enter-active {
   opacity: 1;
-  transition: opacity 200ms;
+  transition: opacity 200ms linear 0;
 }
 
 .fade-exit {
@@ -694,13 +1743,23 @@ body {
 
 .specifications {
   display: flex;
+  flex-direction: row;
   max-width: 148rem;
   padding: 0;
   margin: 0 auto;
   background: #FEFEFE;
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   width: 100vw;
   position: relative;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+@media only screen and (max-width: 36em) {
+  .specifications {
+    flex-direction: column;
+    height: auto;
+  }
 }
 .specifications_img {
   animation-duration: 1.7s;
@@ -711,48 +1770,48 @@ body {
   z-index: 999;
 }
 .specifications_img.primary {
-  width: 33rem;
+  width: 22.25%;
   height: 28rem;
   border-radius: 5rem;
 }
 .specifications_img.primary.lion {
   top: 20rem;
-  left: 5rem;
+  left: 4%;
   background-color: #EBAA53;
 }
 .specifications_img.primary.elephant {
   top: 20rem;
-  left: 39rem;
+  left: 27.25%;
   background-color: #66737a;
 }
 .specifications_img.primary.owl {
   top: 20rem;
-  left: 73rem;
+  left: 5o 0.5%;
   background-color: #C9C9A9;
 }
 .specifications_img.primary.tiger {
   top: 20rem;
-  left: 107rem;
+  left: 73.75%;
   background-color: #f39a27;
 }
 .specifications_img.primary.bear {
   top: 49rem;
-  left: 5rem;
+  left: 4%;
   background-color: #e2b6ab;
 }
 .specifications_img.primary.rabbit {
   top: 49rem;
-  left: 39rem;
+  left: 27.25%;
   background-color: #5ca9b3;
 }
 .specifications_img.primary.hippo {
   top: 49rem;
-  left: 73rem;
+  left: 50.5%;
   background-color: #856fd3;
 }
 .specifications_img.primary.giraffe {
   top: 49rem;
-  left: 107rem;
+  left: 73.75%;
   background-color: #ebca6e;
 }
 .specifications_img.secondary {
@@ -760,8 +1819,22 @@ body {
   bottom: 0;
   left: 0;
   width: 30%;
-  height: 100vh;
+  height: 100%;
   border-radius: 0;
+  flex-shrink: 1;
+  flex: 1 0 auto;
+}
+@media only screen and (max-width: 62.5em) {
+  .specifications_img.secondary {
+    width: 40%;
+  }
+}
+@media only screen and (max-width: 36em) {
+  .specifications_img.secondary {
+    width: 100%;
+    height: 35%;
+    flex-basis: 35%;
+  }
 }
 .specifications_img.secondary.lion {
   background-color: #EBAA53;
@@ -811,6 +1884,19 @@ body {
   width: 70%;
   padding: 5rem;
   transition: opacity 0.4s;
+}
+@media only screen and (max-width: 62.5em) {
+  .specifications_description {
+    width: 60%;
+  }
+}
+@media only screen and (max-width: 36em) {
+  .specifications_description {
+    width: 100%;
+    top: 35%;
+    flex-basis: 65%;
+    padding: 3rem;
+  }
 }
 .specifications_description-link {
   display: flex;

@@ -7,12 +7,13 @@ class Specifications extends Component {
     
     componentDidMount(){
         this.transformHandler()
-        console.log(this.props.location.id)
+       
     }
 
     state = {
 
         transformClass: "primary",
+        close: false,
         animation: "",
         opacity: 0,
         values: {
@@ -39,7 +40,7 @@ class Specifications extends Component {
 
             opacity: 1
 
-        })}, 1000)
+        })}, 1400)
 
         setTimeout( ()  => { this.setState({
 
@@ -54,7 +55,8 @@ class Specifications extends Component {
         this.setState({
 
             animation : `${this.props.location.id}-spand`,
-            opacity: 0
+            opacity: 0,
+            close: true
 
         })
     }
@@ -91,13 +93,15 @@ class Specifications extends Component {
                     break
                 case "giraffe":
                     value = this.state.values.giraffe;
-                    break    
+                    break 
+                default:  
+                    value = "";  
                
         }
           
 
         return (
-            <main className="specifications">
+            <main className={`specifications ${this.state.transformClass}`}>
                 <div className={`specifications_img ${this.state.transformClass} ${itemClass}`}
                      style={{ 
                               animationName: this.state.animation,
@@ -110,8 +114,8 @@ class Specifications extends Component {
                     >
                     </div>
                 </div>
-                <div className="specifications_description" style={{opacity: this.state.opacity}}>
-                    <Link to="/" exact onClick={() => this.onmHandler()} 
+                <div className={`specifications_description ${this.state.transformClass}`} style={{opacity: this.state.opacity}}>
+                    <Link to={{pathname:`/`, close:"kkk"}} exact onClick={() => this.onmHandler()} 
                           className="specifications_description-link"
                     >
                         <Icon name="arrow-left2"/>
