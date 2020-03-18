@@ -3,6 +3,86 @@ import { Link } from 'react-router-dom';
 
 class Home extends Component {
 
+
+    componentDidMount() {
+
+        console.log(this.props.location.scroll)
+        
+       if(window.innerWidth <= 1000) {
+
+        setTimeout( ()  => { 
+
+            switch(this.props.location.scroll) {
+
+                case "lion":
+                    window.scrollTo(0, 0)
+                    break
+                case "elephant":
+                    window.scrollTo(0, 0)
+                    break
+                case "owl":
+                    window.scrollTo(0, 0)
+                    break
+                case "tiger":
+                    window.scrollTo(0, 0)
+                    break
+                case "bear":
+                    window.scrollTo(0, 770)
+                    break
+                case "rabbit":
+                    window.scrollTo(0, 770)
+                    break
+                case "hippo":
+                    window.scrollTo(0, 770)
+                    break
+                case "giraffe":
+                    window.scrollTo(0, 770)
+                    break 
+                default:  
+                    window.scrollTo(0, 0)
+            
+            }
+        }, 800)
+       }
+
+       if(window.innerWidth <= 576) {
+           
+        setTimeout( ()  => { 
+
+            switch(this.props.location.scroll) {
+
+                case "lion":
+                    window.scrollTo(0, 0)
+                    break
+                case "elephant":
+                    window.scrollTo(0, 200)
+                    break
+                case "owl":
+                    window.scrollTo(0, 490)
+                    break
+                case "tiger":
+                    window.scrollTo(0, 890)
+                    break
+                case "bear":
+                    window.scrollTo(0, 1100)
+                    break
+                case "rabbit":
+                    window.scrollTo(0, 1390)
+                    break
+                case "hippo":
+                    window.scrollTo(0, 1600)
+                    break
+                case "giraffe":
+                    window.scrollTo(0, 1890)
+                    break 
+                default:  
+                    window.scrollTo(0, 0)
+            
+            }
+        }, 800)
+       }
+    }
+
     state = {
 
         clicked: false

@@ -9,15 +9,14 @@ class Routes extends Component {
 
    render() {
 
-      let time= this.props.location.close === "kkk" ? 1400 : 0
-console.log(this.props.location.close, time)
       return(
 
          <Route render={({location}) => (
             <TransitionGroup>
 
-               <CSSTransition classNames="fade" timeout={this.props.location.close === "kkk" ? 0 : 1400} key={location.pathname} 
-           
+               <CSSTransition classNames="fade" 
+                              timeout={typeof this.props.location.scroll === "string" ? 0 : 1400} 
+                              key={location.pathname}            
                >
             
                   <Switch location={location}>

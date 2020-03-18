@@ -115,7 +115,7 @@ class Specifications extends Component {
                     </div>
                 </div>
                 <div className={`specifications_description ${this.state.transformClass}`} style={{opacity: this.state.opacity}}>
-                    <Link to={{pathname:`/`, close:"kkk"}} exact onClick={() => this.onmHandler()} 
+                    <Link to={{pathname:`/`, scroll:itemClass}} exact onClick={() => this.onmHandler()} 
                           className="specifications_description-link"
                     >
                         <Icon name="arrow-left2"/>

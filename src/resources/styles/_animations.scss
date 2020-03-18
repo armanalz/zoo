@@ -321,7 +321,7 @@
     @keyframes lion-span {
 
         0%   {  top: 20rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 20rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        //25%   {  top: 20rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%;}
@@ -340,7 +340,7 @@
     @keyframes elephant-span {
     
         0%   {  top: 49rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 49rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+       // 25%   {  top: 49rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -358,8 +358,8 @@
     
     @keyframes owl-span {
     
-        0%   {  top: 78rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 78rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        0%   {  bottom: 0; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+     //   25%   {  top: 78rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -377,8 +377,8 @@
     
     @keyframes tiger-span {
     
-        0%   {  top: 107rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 107rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        0%   {  bottom:0; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+      //  25%   {  top: 107rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -396,8 +396,8 @@
     
     @keyframes bear-span {
     
-        0%   {  top: 136rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 136rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        0%   {  bottom:0; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+     //   25%   {  top: 136rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -415,8 +415,8 @@
     
     @keyframes rabbit-span {
     
-        0%   {  top: 165rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 165rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        0%   {  bottom:0; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+       // 25%   {  top: 165rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -434,8 +434,8 @@
     
     @keyframes hippo-span {
     
-        0%   {  top: 194rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
-        25%   {  top: 194rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+        0%   {  bottom:0; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
+      //  25%   {  top: 194rem; left: 10%; border-radius: 5rem; width: 80%; height: 28rem}
       
         80% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
@@ -453,8 +453,8 @@
              
     @keyframes giraffe-span {
 
-        0%   { top: 223rem; left: 10%;  border-radius: 5rem; width: 80%; height: 28rem;}
-        25%  { top: 223rem; left: 10%;  border-radius: 5rem; width: 80%; height: 28rem;}
+        0%   { bottom: 0; left: 10%;  border-radius: 5rem; width: 80%; height: 28rem;}
+       // 25%  { top: 223rem; left: 10%;  border-radius: 5rem; width: 80%; height: 28rem;}
         80%  { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
         100% { top: 0; left: 0; bottom: 0; height: 35%; border-radius: 0; width: 100%}
     
