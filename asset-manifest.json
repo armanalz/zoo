@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/zoo/static/css/main.eb73bef4.chunk.css",
+    "main.js": "/zoo/static/js/main.88ed95c7.chunk.js",
+    "main.js.map": "/zoo/static/js/main.88ed95c7.chunk.js.map",
+    "runtime-main.js": "/zoo/static/js/runtime-main.ebcb10e8.js",
+    "runtime-main.js.map": "/zoo/static/js/runtime-main.ebcb10e8.js.map",
+    "static/js/2.68ad93a4.chunk.js": "/zoo/static/js/2.68ad93a4.chunk.js",
+    "static/js/2.68ad93a4.chunk.js.map": "/zoo/static/js/2.68ad93a4.chunk.js.map",
+    "index.html": "/zoo/index.html",
+    "precache-manifest.39678b706414791d9fbd691d0abecfa5.js": "/zoo/precache-manifest.39678b706414791d9fbd691d0abecfa5.js",
+    "service-worker.js": "/zoo/service-worker.js",
+    "static/css/main.eb73bef4.chunk.css.map": "/zoo/static/css/main.eb73bef4.chunk.css.map",
+    "static/js/2.68ad93a4.chunk.js.LICENSE.txt": "/zoo/static/js/2.68ad93a4.chunk.js.LICENSE.txt",
+    "static/media/bear.png": "/zoo/static/media/bear.f9bbd0e1.png",
+    "static/media/elephant.png": "/zoo/static/media/elephant.dc0ae7e8.png",
+    "static/media/giraffe.png": "/zoo/static/media/giraffe.56578b8e.png",
+    "static/media/hippo.png": "/zoo/static/media/hippo.cf50e7c0.png",
+    "static/media/lion.png": "/zoo/static/media/lion.188a1b4f.png",
+    "static/media/owl.png": "/zoo/static/media/owl.53b3b055.png",
+    "static/media/rabbit.png": "/zoo/static/media/rabbit.a6c5a911.png",
+    "static/media/sprite.svg": "/zoo/static/media/sprite.4a72bd63.svg",
+    "static/media/tiger.png": "/zoo/static/media/tiger.6c4a2c5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebcb10e8.js",
+    "static/js/2.68ad93a4.chunk.js",
+    "static/css/main.eb73bef4.chunk.css",
+    "static/js/main.88ed95c7.chunk.js"
+  ]
+}
