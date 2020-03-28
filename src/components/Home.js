@@ -5,8 +5,6 @@ class Home extends Component {
 
 
     componentDidMount() {
-
-        console.log(this.props.location.scroll)
         
        if(window.innerWidth <= 1000) {
 

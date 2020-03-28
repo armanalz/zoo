@@ -15,7 +15,7 @@ class Routes extends Component {
             <TransitionGroup>
 
                <CSSTransition classNames="fade" 
-                              timeout={typeof this.props.location.scroll === "string" ? 0 : 1400} 
+                              timeout={typeof this.props.location.id === "string" ? 1400 : 0} 
                               key={location.pathname}            
                >
             
